@@ -1,0 +1,6 @@
+ facid |      name      | membercost | guestcost | initialoutlay | monthlymaintenance 
+-------+----------------+------------+-----------+---------------+--------------------
+     4 | Massage Room 1 |         35 |        80 |          4000 |               3000
+     5 | Massage Room 2 |         35 |        80 |          4000 |               3000
+(2 rows)
+

@@ -1,0 +1,13 @@
+      name       |   cost    
+-----------------+-----------
+ Tennis Court 1  | expensive
+ Tennis Court 2  | expensive
+ Badminton Court | cheap
+ Table Tennis    | cheap
+ Massage Room 1  | expensive
+ Massage Room 2  | expensive
+ Squash Court    | cheap
+ Snooker Table   | cheap
+ Pool Table      | cheap
+(9 rows)
+
