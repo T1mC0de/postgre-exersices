@@ -1,0 +1,4 @@
+ facid | month | Total Slots 
+-------+-------+-------------
+(0 rows)
+

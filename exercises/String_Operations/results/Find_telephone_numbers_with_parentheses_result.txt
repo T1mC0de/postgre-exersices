@@ -1,0 +1,4 @@
+ memid | telephone 
+-------+-----------
+(0 rows)
+

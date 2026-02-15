@@ -1,0 +1,16 @@
+ month | length  
+-------+---------
+     1 | 31 days
+     2 | 29 days
+     3 | 31 days
+     4 | 30 days
+     5 | 31 days
+     6 | 30 days
+     7 | 31 days
+     8 | 31 days
+     9 | 30 days
+    10 | 31 days
+    11 | 30 days
+    12 | 31 days
+(12 rows)
+

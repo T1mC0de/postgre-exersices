@@ -1,0 +1,17 @@
+ firstname | surname  
+-----------+----------
+ Florence  | Bader
+ Timothy   | Baker
+ Gerald    | Butters
+ Jemima    | Farrell
+ Matthew   | Genting
+ David     | Jones
+ Janice    | Joplette
+ Millicent | Purview
+ Tim       | Rownam
+ Darren    | Smith
+ Tracy     | Smith
+ Ponder    | Stibbons
+ Burton    | Tracy
+(13 rows)
+

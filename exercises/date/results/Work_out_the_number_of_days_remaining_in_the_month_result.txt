@@ -1,0 +1,5 @@
+ remaining 
+-----------
+ 19 days
+(1 row)
+

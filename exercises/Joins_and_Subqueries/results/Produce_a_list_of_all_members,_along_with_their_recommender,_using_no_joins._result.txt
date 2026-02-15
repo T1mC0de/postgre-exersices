@@ -1,0 +1,34 @@
+         member          |    recommender    
+-------------------------+-------------------
+ Anna Mackenzie          | Darren Smith
+ Anne Baker              | Ponder Stibbons
+ Burton Tracy            | 
+ Charles Owen            | Darren Smith
+ Darren Smith            | 
+ David Farrell           | 
+ David Jones             | Janice Joplette
+ David Pinker            | Jemima Farrell
+ Douglas Jones           | David Jones
+ Erica Crumpet           | Tracy Smith
+ Florence Bader          | Ponder Stibbons
+ Gerald Butters          | Darren Smith
+ GUEST GUEST             | 
+ Henrietta Rumney        | Matthew Genting
+ Henry Worthington-Smyth | Tracy Smith
+ Hyacinth Tupperware     | 
+ Jack Smith              | Darren Smith
+ Janice Joplette         | Darren Smith
+ Jemima Farrell          | 
+ Joan Coplin             | Timothy Baker
+ John Hunt               | Millicent Purview
+ Matthew Genting         | Gerald Butters
+ Millicent Purview       | Tracy Smith
+ Nancy Dare              | Janice Joplette
+ Ponder Stibbons         | Burton Tracy
+ Ramnaresh Sarwin        | Florence Bader
+ Tim Boothe              | Tim Rownam
+ Timothy Baker           | Jemima Farrell
+ Tim Rownam              | 
+ Tracy Smith             | 
+(30 rows)
+
